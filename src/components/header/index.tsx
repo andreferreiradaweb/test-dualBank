@@ -7,7 +7,7 @@ import RightMenu from '../../img/right-menu.svg'
 import SearchIcon from '../../img/SearchIcon.svg'
 import CopySimple from '../../img/CopySimple.svg'
 
-import Popout from '../popout'
+// import Popout from '../popout'
 
 import * as S from './styles'
 
